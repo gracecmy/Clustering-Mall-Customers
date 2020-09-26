@@ -1,4 +1,4 @@
-🛒
+🛍
 
 Using scikit-learn's k-means algorithm to determine clusters in mall customers.
 
